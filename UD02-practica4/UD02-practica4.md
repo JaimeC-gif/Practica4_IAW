@@ -1,7 +1,7 @@
 ﻿UD02 - Pràctica 04
 
 Curs 2025-2026
-![ref1]![ref2]![](Aspose.Words.3c225a72-eca6-4739-841e-ecdc5fa3400b.003.png)![](Aspose.Words.3c225a72-eca6-4739-841e-ecdc5fa3400b.004.png)
+![/UD02-practica4/fotos](Aspose.Words.3c225a72-eca6-4739-841e-ecdc5fa3400b.003.png)![](Aspose.Words.3c225a72-eca6-4739-841e-ecdc5fa3400b.004.png)
 
 <a name="pràctica_4%25253a_phpmyadmin"></a>**Pràctica 4: phpmyadmin**
 
